@@ -1,5 +1,5 @@
 // Change this to your deployed API URL after deployment
-const API_URL = 'http://localhost:3000/api/portfolio';
+const API_URL = 'http://https://portfolio-api-9mr5.onrender.com/api/portfolio';
 
 const form = document.getElementById('portfolio-form');
 const tableBody = document.getElementById('table-body');
